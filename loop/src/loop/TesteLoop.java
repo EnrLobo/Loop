@@ -38,7 +38,7 @@ public class TesteLoop {
         
         
         
-        user.setNome("Dimitri Payet");
+        user.setNome("Angel Romero");
         user.setCodigoU((int) (Math.random() * 900000) + 100000);
         user.setCpf("103.454.345-32");
         user.setEmail("dimitrivasco@gmail.com");
