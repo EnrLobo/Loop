@@ -5,7 +5,7 @@ public class Pedido {
     private int codigoP;
     private String dataPedido;
     Usuario user = new Usuario();
-
+    
     public int getCodigoP() {
         return codigoP;
     }
